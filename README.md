@@ -1,5 +1,11 @@
 ## Hi there 👋
+### Nothing much to see here...
 
+Working on JS, CSS, HTML, and Kotlin just to get by. 
+
+i won't be detailing my "programming journey" or my tech stack here—there's no glory in the code. instead, you're invited to witness my slow descent into melancholy and madness through my sound. 
+
+that's where the real ghost lives. 🥀✨
 <!--
 **FeaTherSam17/FeaTherSam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
