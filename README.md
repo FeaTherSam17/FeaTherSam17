@@ -3,7 +3,7 @@
 
 Working on JS, CSS, HTML, and Kotlin just to get by. 
 
-i won't be detailing my "programming journey" or my tech stack here—there's no glory in the code. instead, you're invited to witness my slow descent into melancholy and madness through my sound. 
+There are no details about my progress in the development process. Instead, you’re invited to witness my slow descent into melancholy and madness through my music.
 
 that's where the real ghost lives. 🥀✨
 <!--
